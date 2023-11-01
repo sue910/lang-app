@@ -3,7 +3,7 @@ import { PanResponder, View, Animated, Easing } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import styled from "styled-components/native";
 import icons from "./icons";
-
+//
 const BLACK = "#1e272e";
 const GRAY = "#485460";
 const GREEN = "#2ecc71";
